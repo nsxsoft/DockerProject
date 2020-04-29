@@ -31,10 +31,7 @@
 	<div class="jumbotron">
   <h1 class="display-4">PHP USE CASE</h1>
   <p class="lead">PHP is an interpreted language. This means that when you make changes to your source code you can immediately test these changes, without first needing to compile your source code into binary form. Skipping the compilation step makes the development process much faster.</p>
-  <hr class="my-4">
-  <p>It uses utility classes for typography and spacing to space content out within the larger container.</p>
-  <a class="btn btn-primary btn-lg" href="#" role="button">Learn more</a>
-</div>
+  
   </body>
 </html>
 
